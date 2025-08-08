@@ -1,0 +1,11 @@
+Date,Tweet,Cleaned_Tweet,Polarity,Sentiment
+2024-01-01,Virat Kohli is the best batsman in the world! #KingKohli,virat kohli is the best batsman in the world kingkohli,1.0,Positive
+2024-01-02,Amazing performance by Virat Kohli today!,amazing performance by virat kohli today,0.6000000000000001,Positive
+2024-01-03,Virat Kohli's century was incredible to watch,virat kohli's century was incredible to watch,0.9,Positive
+2024-01-04,Not impressed with Virat Kohli's recent form,not impressed with virat kohli's recent form,-0.25,Negative
+2024-01-05,Virat Kohli needs to improve his batting technique,virat kohli needs to improve his batting technique,0.0,Neutral
+2024-01-06,What a player Virat Kohli is! Pure class!,what a player virat kohli is pure class,0.21428571428571427,Positive
+2024-01-07,Virat Kohli's leadership skills are outstanding,virat kohli's leadership skills are outstanding,0.5,Positive
+2024-01-08,Disappointed with Virat Kohli's performance today,disappointed with virat kohli's performance today,-0.75,Negative
+2024-01-09,Virat Kohli is a legend of the game,virat kohli is a legend of the game,-0.4,Negative
+2024-01-10,Great to see Virat Kohli back in form,great to see virat kohli back in form,0.4,Positive
