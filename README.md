@@ -55,25 +55,6 @@ Run the following command in your terminal or command prompt:
 pip install pandas numpy matplotlib seaborn textblob nltk wordcloud snscrape
 ```
 
-Alternatively, create a `requirements.txt` file with the following:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-textblob
-nltk
-wordcloud
-snscrape
-```
-
-Then install all dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 🔹 NLTK Setup (one-time only)
 
 The script auto-downloads required NLTK data (`punkt`) if it's missing.
@@ -130,7 +111,6 @@ virat-kohli-sentiment-analysis/
 ├── virat_kohli_sentiment_analysis.py      # Main Python script
 ├── virat_kohli_tweets.csv                 # (Optional) fallback tweet data
 ├── virat_kohli_sentiment.csv              # Output after analysis
-├── requirements.txt                       # Python dependencies
 └── README.md                              # Project documentation
 ```
 
@@ -149,23 +129,4 @@ Negative: 14%
 > "Virat Kohli is the best batsman in the world! #KingKohli"
 
 ---
-
-## 📝 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
-Feel free to fork, modify, or contribute.
-
----
-
-## 🙌 Acknowledgements
-
-- [TextBlob](https://textblob.readthedocs.io/)
-- [NLTK](https://www.nltk.org/)
-- [snscrape](https://github.com/JustAnotherArchivist/snscrape)
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [WordCloud](https://github.com/amueller/word_cloud)
-
----
-
-> 💡 **Created by Pranav Patil** – Engineering Student passionate about NLP, Data Science, and Cricket!
+ **Created by Pranav Patil**
