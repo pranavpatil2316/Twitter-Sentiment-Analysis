@@ -1,0 +1,60 @@
+============================================================
+VIRAT KOHLI TWEET SENTIMENT ANALYSIS
+============================================================
+
+1. Fetching tweets...
+Error scraping tweets: 'FileFinder' object has no attribute 'find_module'
+Falling back to CSV file...
+Loaded 10 tweets from CSV file
+2. Performing sentiment analysis...
+
+3. Analysis Results:
+----------------------------------------
+
+First 5 rows of the DataFrame:
+         Date  ... Sentiment
+0  2024-01-01  ...  Positive
+1  2024-01-02  ...  Positive
+2  2024-01-03  ...  Positive
+3  2024-01-04  ...  Negative
+4  2024-01-05  ...   Neutral
+
+[5 rows x 4 columns]
+
+Sentiment Distribution:
+Sentiment
+Positive    6
+Name: count, dtype: int64
+
+Sentiment Distribution (%):
+Positive: 60.0%
+Negative: 30.0%
+Neutral: 10.0%
+
+4. Creating visualizations...
+
+5. Saving results...
+Results saved to virat_kohli_sentiment.csv
+
+6. Summary Statistics:
+----------------------------------------
+Total tweets analyzed: 10
+Average polarity score: 0.221
+Most common sentiment: Positive
+
+Example tweets by sentiment:
+
+Positive tweets:
+  1. Virat Kohli is the best batsman in the world! #KingKohli...
+  2. Amazing performance by Virat Kohli today!...
+
+Neutral tweets:
+  1. Virat Kohli needs to improve his batting technique...
+
+Negative tweets:
+  1. Not impressed with Virat Kohli's recent form...
+  2. Disappointed with Virat Kohli's performance today...
+
+============================================================
+ANALYSIS COMPLETE!
+============================================================
